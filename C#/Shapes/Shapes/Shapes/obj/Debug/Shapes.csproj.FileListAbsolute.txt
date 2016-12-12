@@ -1,0 +1,12 @@
+c:\users\csclabstudent\documents\visual studio 2013\Projects\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+c:\users\csclabstudent\documents\visual studio 2013\Projects\Shapes\Shapes\obj\Debug\Shapes.Shapes.resources
+c:\users\csclabstudent\documents\visual studio 2013\Projects\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.Cache
+c:\users\csclabstudent\documents\visual studio 2013\Projects\Shapes\Shapes\bin\Debug\Shapes.dll
+c:\users\csclabstudent\documents\visual studio 2013\Projects\Shapes\Shapes\bin\Debug\Shapes.pdb
+c:\users\csclabstudent\documents\visual studio 2013\Projects\Shapes\Shapes\obj\Debug\Shapes.dll
+c:\users\csclabstudent\documents\visual studio 2013\Projects\Shapes\Shapes\obj\Debug\Shapes.pdb
+E:\UpdatedShapes\Shapes\Shapes\bin\Debug\Shapes.dll
+E:\UpdatedShapes\Shapes\Shapes\bin\Debug\Shapes.pdb
+E:\UpdatedShapes\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+E:\UpdatedShapes\Shapes\Shapes\obj\Debug\Shapes.dll
+E:\UpdatedShapes\Shapes\Shapes\obj\Debug\Shapes.pdb

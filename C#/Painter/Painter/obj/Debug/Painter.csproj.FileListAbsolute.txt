@@ -1,0 +1,27 @@
+E:\Painter\Painter\bin\Debug\Painter.exe.config
+E:\Painter\Painter\bin\Debug\Painter.exe
+E:\Painter\Painter\bin\Debug\Painter.pdb
+E:\Painter\Painter\obj\Debug\Painter.csprojResolveAssemblyReference.cache
+E:\Painter\Painter\obj\Debug\Painter.Properties.Resources.resources
+E:\Painter\Painter\obj\Debug\Painter.csproj.GenerateResource.Cache
+E:\Painter\Painter\obj\Debug\Painter.exe
+E:\Painter\Painter\obj\Debug\Painter.pdb
+E:\Painter\Painter\obj\Debug\Painter.PainterForm.resources
+H:\Painter\Painter\bin\Debug\Painter.exe.config
+H:\Painter\Painter\obj\Debug\Painter.exe
+H:\Painter\Painter\obj\Debug\Painter.pdb
+H:\Painter\Painter\obj\Debug\Painter.csprojResolveAssemblyReference.cache
+H:\Painter\Painter\obj\Debug\Painter.PainterForm.resources
+H:\Painter\Painter\obj\Debug\Painter.Properties.Resources.resources
+H:\Painter\Painter\obj\Debug\Painter.csproj.GenerateResource.Cache
+H:\Painter\Painter\bin\Debug\Painter.exe
+H:\Painter\Painter\bin\Debug\Painter.pdb
+F:\Documents\School Related\4143 - Contemporary Programming Languages\Painter\Painter\bin\Debug\Painter.exe.config
+F:\Documents\School Related\4143 - Contemporary Programming Languages\Painter\Painter\obj\Debug\Painter.exe
+F:\Documents\School Related\4143 - Contemporary Programming Languages\Painter\Painter\obj\Debug\Painter.pdb
+F:\Documents\School Related\4143 - Contemporary Programming Languages\Painter\Painter\bin\Debug\Painter.exe
+F:\Documents\School Related\4143 - Contemporary Programming Languages\Painter\Painter\bin\Debug\Painter.pdb
+F:\Documents\School Related\4143 - Contemporary Programming Languages\Painter\Painter\obj\Debug\Painter.csprojResolveAssemblyReference.cache
+F:\Documents\School Related\4143 - Contemporary Programming Languages\Painter\Painter\obj\Debug\Painter.PainterForm.resources
+F:\Documents\School Related\4143 - Contemporary Programming Languages\Painter\Painter\obj\Debug\Painter.Properties.Resources.resources
+F:\Documents\School Related\4143 - Contemporary Programming Languages\Painter\Painter\obj\Debug\Painter.csproj.GenerateResource.Cache

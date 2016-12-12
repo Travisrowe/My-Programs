@@ -1,0 +1,21 @@
+c:\Users\csclabstudent\documents\visual studio 2013\Projects\Shapes\ShapesForm\bin\Debug\ShapesForm.exe.config
+c:\Users\csclabstudent\documents\visual studio 2013\Projects\Shapes\ShapesForm\obj\Debug\ShapesForm.csprojResolveAssemblyReference.cache
+c:\Users\csclabstudent\documents\visual studio 2013\Projects\Shapes\ShapesForm\obj\Debug\Shapes.Shapes.resources
+c:\Users\csclabstudent\documents\visual studio 2013\Projects\Shapes\ShapesForm\obj\Debug\ShapesForm.Properties.Resources.resources
+c:\Users\csclabstudent\documents\visual studio 2013\Projects\Shapes\ShapesForm\obj\Debug\ShapesForm.csproj.GenerateResource.Cache
+c:\Users\csclabstudent\documents\visual studio 2013\Projects\Shapes\ShapesForm\bin\Debug\ShapesForm.exe
+c:\Users\csclabstudent\documents\visual studio 2013\Projects\Shapes\ShapesForm\bin\Debug\ShapesForm.pdb
+c:\Users\csclabstudent\documents\visual studio 2013\Projects\Shapes\ShapesForm\obj\Debug\ShapesForm.exe
+c:\Users\csclabstudent\documents\visual studio 2013\Projects\Shapes\ShapesForm\obj\Debug\ShapesForm.pdb
+c:\Users\csclabstudent\documents\visual studio 2013\Projects\Shapes\ShapesForm\obj\Debug\ShapesForm.ShapesForm.resources
+E:\UpdatedShapes\Shapes\ShapesForm\bin\Debug\ShapesForm.exe.config
+E:\UpdatedShapes\Shapes\ShapesForm\obj\Debug\ShapesForm.exe
+E:\UpdatedShapes\Shapes\ShapesForm\obj\Debug\ShapesForm.pdb
+E:\UpdatedShapes\Shapes\ShapesForm\obj\Debug\ShapesForm.csprojResolveAssemblyReference.cache
+E:\UpdatedShapes\Shapes\ShapesForm\obj\Debug\ShapesForm.Properties.Resources.resources
+E:\UpdatedShapes\Shapes\ShapesForm\obj\Debug\ShapesForm.ShapesForm.resources
+E:\UpdatedShapes\Shapes\ShapesForm\obj\Debug\ShapesForm.csproj.GenerateResource.Cache
+E:\UpdatedShapes\Shapes\ShapesForm\bin\Debug\ShapesForm.exe
+E:\UpdatedShapes\Shapes\ShapesForm\bin\Debug\ShapesForm.pdb
+E:\UpdatedShapes\Shapes\ShapesForm\bin\Debug\Shapes.dll
+E:\UpdatedShapes\Shapes\ShapesForm\bin\Debug\Shapes.pdb

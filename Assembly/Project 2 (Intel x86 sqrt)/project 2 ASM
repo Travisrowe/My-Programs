@@ -1,0 +1,20 @@
+		.MODEL		small
+		.STACK		100h
+		.DATA
+		.CODE
+Main:	mov			ax,@data
+		mov			ds,ax
+		
+		mov			bl,1
+		mov			ah,1
+		int			21h
+		mov			ah,0		;ax = al
+		mov			bh,0		;bx = bl
+		
+		div			bx
+		
+		mov
+		
+		mov			ah,4ch
+		int			21h
+		END			Main
