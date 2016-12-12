@@ -19,3 +19,6 @@ E:\UpdatedShapes\Shapes\ShapesForm\bin\Debug\ShapesForm.exe
 E:\UpdatedShapes\Shapes\ShapesForm\bin\Debug\ShapesForm.pdb
 E:\UpdatedShapes\Shapes\ShapesForm\bin\Debug\Shapes.dll
 E:\UpdatedShapes\Shapes\ShapesForm\bin\Debug\Shapes.pdb
+C:\Users\Travis\Documents\School Related\Git Programs\My-Programs\C#\Shapes\Shapes\ShapesForm\bin\Debug\ShapesForm.exe.config
+C:\Users\Travis\Documents\School Related\Git Programs\My-Programs\C#\Shapes\Shapes\ShapesForm\obj\Debug\ShapesForm.exe
+C:\Users\Travis\Documents\School Related\Git Programs\My-Programs\C#\Shapes\Shapes\ShapesForm\obj\Debug\ShapesForm.pdb
