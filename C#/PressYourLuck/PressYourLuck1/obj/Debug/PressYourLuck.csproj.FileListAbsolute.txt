@@ -1,0 +1,27 @@
+C:\Users\AustinC\Desktop\PressYourLuck\PressYourLuck\bin\Debug\PressYourLuck.exe.config
+C:\Users\AustinC\Desktop\PressYourLuck\PressYourLuck\bin\Debug\PressYourLuck.exe
+C:\Users\AustinC\Desktop\PressYourLuck\PressYourLuck\bin\Debug\PressYourLuck.pdb
+C:\Users\AustinC\Desktop\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.GameDisplay.resources
+C:\Users\AustinC\Desktop\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.helpWindow.resources
+C:\Users\AustinC\Desktop\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.Properties.Resources.resources
+C:\Users\AustinC\Desktop\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.FileExplorer.resources
+C:\Users\AustinC\Desktop\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.SetUp.resources
+C:\Users\AustinC\Desktop\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.StartScreen.resources
+C:\Users\AustinC\Desktop\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.Trivia.resources
+C:\Users\AustinC\Desktop\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.csproj.GenerateResource.Cache
+C:\Users\AustinC\Desktop\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.exe
+C:\Users\AustinC\Desktop\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.pdb
+C:\Users\Travis\Documents\School Related\PYL\PressYourLuck\PressYourLuck\bin\Debug\PressYourLuck.exe.config
+C:\Users\Travis\Documents\School Related\PYL\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.exe
+C:\Users\Travis\Documents\School Related\PYL\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.pdb
+C:\Users\Travis\Documents\School Related\PYL\PressYourLuck\PressYourLuck\bin\Debug\PressYourLuck.exe
+C:\Users\Travis\Documents\School Related\PYL\PressYourLuck\PressYourLuck\bin\Debug\PressYourLuck.pdb
+C:\Users\Travis\Documents\School Related\PYL\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.csprojResolveAssemblyReference.cache
+C:\Users\Travis\Documents\School Related\PYL\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.GameDisplay.resources
+C:\Users\Travis\Documents\School Related\PYL\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.helpWindow.resources
+C:\Users\Travis\Documents\School Related\PYL\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.Properties.Resources.resources
+C:\Users\Travis\Documents\School Related\PYL\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.FileExplorer.resources
+C:\Users\Travis\Documents\School Related\PYL\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.SetUp.resources
+C:\Users\Travis\Documents\School Related\PYL\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.StartScreen.resources
+C:\Users\Travis\Documents\School Related\PYL\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.Trivia.resources
+C:\Users\Travis\Documents\School Related\PYL\PressYourLuck\PressYourLuck\obj\Debug\PressYourLuck.csproj.GenerateResource.Cache
